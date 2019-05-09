@@ -1,2 +1,1 @@
-# bdtipstech
-bd tips tech host
+# bd tech blog 
